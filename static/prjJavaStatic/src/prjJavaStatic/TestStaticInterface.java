@@ -14,7 +14,7 @@ class rectangle1 implements Drawable
 		System.out.println("drawing rectangle");
 		System.out.println("drawing rectangle");
 		System.out.println("drawing rectangle");
-		
+		System.out.println("drawing rectangle");
 	}
 }
 
